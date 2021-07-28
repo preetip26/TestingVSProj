@@ -12,6 +12,7 @@ namespace TryingVS
         {
             Console.WriteLine("Enter the number");
             Console.WriteLine("Added from VS");
+            Console.WriteLine("Added from github");
         }
     }
 }
