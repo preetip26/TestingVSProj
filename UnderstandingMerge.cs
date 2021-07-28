@@ -11,6 +11,7 @@ namespace TryingVS
         public void show()
         {
             Console.WriteLine("Hello from VS");
+            Console.WriteLine("Hello from GitHub");
         }
     }
 }
