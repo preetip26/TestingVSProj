@@ -12,6 +12,7 @@ namespace TryingVS
         {
             Console.WriteLine("Hello from VS");
             Console.WriteLine("Hello from GitHub");
+            Consol.WriteLine("Only I should be there");
         }
     }
 }
