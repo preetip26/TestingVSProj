@@ -7,6 +7,7 @@ namespace TryingVS
         static void Main(string[] args)
         {
             Console.WriteLine("Hello from Preeti!");
+            Console.WriteLine("Hello from Poddar also");
         }
     }
 }
